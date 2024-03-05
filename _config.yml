@@ -2,5 +2,7 @@ title: Isabel Dalisay
 logo: /assets/img/logo.png
 description: A portfolio to find all my projects relating to Computer Science, Data Science, and ArcGIS
 show_downloads: true
-google_analytics:
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 theme: jekyll-theme-minimal
