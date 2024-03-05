@@ -1,1 +1,0 @@
-# isadali.github.io
