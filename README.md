@@ -1,1 +1,1 @@
-a bunch of projects. work in progress
+A collections of projects from Computer Science and Data Science as an Undergrad at the University of Oregon.
